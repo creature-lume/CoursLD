@@ -2928,6 +2928,10 @@ PrefabInstance:
     m_TransformParent: {fileID: 1952067266}
     m_Modifications:
     - target: {fileID: 770993563162674145, guid: 02929ecefdff4314f9a66b2d803dd96c, type: 3}
+      propertyPath: levelname
+      value: Lvl_2
+      objectReference: {fileID: 0}
+    - target: {fileID: 770993563162674145, guid: 02929ecefdff4314f9a66b2d803dd96c, type: 3}
       propertyPath: blackTrigger
       value: 
       objectReference: {fileID: 58946157}
